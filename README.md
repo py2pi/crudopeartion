@@ -1,6 +1,6 @@
 # crud opeartion using php abd mysql.
 
-Step-1 Download xamp server and install it on your pc.
+#Step-1 Download xamp server and install it on your pc.
 Step-2 Open xamp server and start Apache and MySQl.
 Step-3 Go to 'http://localhost/phpmyadmin/' it will open phpMyAdmin. GIve the username as 'root' and leave the password blank then click on go.
 Step-4 Create a database named crudyoutube and a table inside database named crudtable in phpmyadmin.
