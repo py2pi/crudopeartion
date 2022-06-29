@@ -1,4 +1,4 @@
-# crud opeartion using php abd mysql.
+# crud opeartion using php and mysql.
 
 #Step-1 Download xamp server and install it on your pc.
 Step-2 Open xamp server and start Apache and MySQl.
